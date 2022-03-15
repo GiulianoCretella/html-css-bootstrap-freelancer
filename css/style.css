@@ -22,3 +22,7 @@ header{
 .container .row .col-12 img{
     width: 100%;
 }
+.my_title h1{
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
