@@ -6,3 +6,19 @@
 .debug{
     border: 1px solid black;
 }
+.bgcolor-blue{
+    background-color: #2C3E50;
+}
+.color-blue{
+    color: #2C3E50;
+}
+.bgcolor-azure{
+    background-color: #1BBC9B;
+}
+header{
+    width: 100%;
+    height: 80px;
+}
+.container .row .col-12 img{
+    width: 100%;
+}
