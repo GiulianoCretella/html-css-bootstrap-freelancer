@@ -31,7 +31,10 @@ header{
 .my_title h1{
     font-size: 1.2em;
 }
-
 footer h2{
     font-size: 1.1em;
+}
+footer .my_element{
+    width: 30px;
+    height: 30px;
 }
